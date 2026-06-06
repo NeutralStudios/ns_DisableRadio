@@ -9,6 +9,4 @@ author 'Neutral Studios'
 description 'Disable the GTA5 Basic Radio System'
 version '1.0.0'
 
-client_script {
-    'client/main.lua'
-}
+client_script 'main.lua'
